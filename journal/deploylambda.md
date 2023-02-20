@@ -1,5 +1,5 @@
 # How to deploy lambda function  using terraform
-![](![alt](../asset/lambda-terraform.png))
+(![alt](../asset/lambda-terraform.png))
 
 Step# 1
     ### Create a role for lambda    
